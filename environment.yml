@@ -1,0 +1,14 @@
+name: job_freak
+channels:
+  - defaults
+dependencies:
+  - numpy=1.25
+  - jupyter=1.0.0
+  - pathlib=1.0.1
+  - beautifulsoup4=4.12.2
+  - python=3.10.12
+  - matplotlib=3.7.1
+  - pandas=1.5.3
+  - requests=2.29.0
+  - pip=23.0.1
+prefix: C:\Users\bballdave025\.conda\envs\job_freak
