@@ -1,3 +1,35 @@
+#@brief   A .gitignore file for my AWS ML Cert Notebooks
+#@file    .gitignore
+#@author  David BLACK  GH: @bballdave025
+#@since   2023-07-23
+#
+#  -v- In case this file gets copied to another repo without changing -v-
+#+ -v- this stuff, there will be a reference to the previous repo     -v-
+#@orig_repo  job-app-word-freq
+#@project    job-app-word-freq
+#@package    job-app-word-freq
+#    @TODO - package, maybe
+
+
+# Specific directories
+**/__pycache__/
+__pycache__/
+
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# None of those backup files from Linux(c)/vim
+*~
+*.swp
+
+# None of those Windows Office (at least MS Word) backup files
+$~*
+
+
+# The template from GitHub for a Python repo
+## >>>>>>>>>> Retrieved 2023-07-22 (-0600)
+## >>>>>>>>>> Start GitHub Python template for .gitignore >>>>>>>>>>
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,3 +190,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+## >>>>>>>>>> End   GitHub Python template for .gitignore >>>>>>>>>>
