@@ -11,12 +11,16 @@
 #    @TODO - package, maybe
 
 
-# Specific directories
+# Specific directories and their contents
 **/__pycache__/
 __pycache__/
+**/__pycache__/*
+__pycache__/*
 
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/*.ipynb
 
 # None of those backup files from Linux(c)/vim
 *~
