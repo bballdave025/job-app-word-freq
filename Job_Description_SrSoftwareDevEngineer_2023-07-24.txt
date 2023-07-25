@@ -1,0 +1,74 @@
+FamilySearch Sr Software Dev Engineer
+Lehi, UT, United States
+United States
+(Remote)
+To meet the needs of the Church, we seek to build teams that represent the diverse perspectives, broad life experiences and backgrounds of our global Church membership. With that in mind, we encourage all qualified applicants to apply.
+
+JOB DESCRIPTION
+Are you an experienced and passionate software engineer seeking an opportunity to make a meaningful impact? Join the exceptional team at FamilySearch.org, the world's largest genealogy organization, and play a crucial role in revolutionizing how people connect with their family history.
+
+About Us: FamilySearch.org is dedicated to preserving and sharing the world's genealogical records, fostering connections among families across generations. As a pioneering industry leader, we are committed to leveraging innovative tools and technologies to empower millions of users worldwide to make remarkable discoveries about their ancestors and family history.
+
+Your Role: As a Senior Software Engineer at FamilySearch.org, you will be at the forefront of our technological advancements, driving the development of robust and scalable software solutions. You will collaborate with a talented team of engineers, designers, and product managers to enhance the FamilySearch.org platform, delivering exceptional user experiences.
+
+RESPONSIBILITIES
+Collaborate with cross-functional teams to design, develop, and implement software solutions that align with business objectives and user needs.
+Architect and maintain scalable, performant, and secure web-based applications using industry-standard programming languages and frameworks.
+Take ownership of projects throughout the entire software development lifecycle, ensuring high-quality and on-time delivery.
+Conduct thorough code reviews, provide constructive feedback, and mentor junior engineers to foster a culture of continuous improvement.
+Stay abreast of emerging technologies and industry trends, evaluating their potential impact and relevance to our platform.
+Solve complex technical challenges and contribute to architectural decisions to drive innovation and optimize system performance.
+Communicate effectively with stakeholders, contributing to product strategy and roadmap discussions.
+Uphold software engineering best practices, including code quality, documentation, and maintainability.
+QUALIFICATIONS
+Required:
+
+Education:
+
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+Work Experience:
+
+A minimum of 6 years of professional experience in software development, with a focus on web-based applications.
+Concurrent Java programming experience  
+Preferred Qualifications:
+
+Master's degree
+Experience with one or more of the following:
+Cloud Computing (Amazon AWS) 
+Search technologies (OpenSearch, Elasticsearch, Solr or other similar technologies).
+Relational databases (Amazon RDS, Postgres) 
+Spark, Amazon EMR or other MapReduce frameworks 
+messaging systems (Kafka, Amazon Kinesis, SQS and SNS) 
+Software development and test engineering experience on large projects. 
+Development or automated testing of n-tier distributed Java applications (REST).
+Why Join FamilySearch.org?
+
+Impactful Mission: Be part of a meaningful mission to help individuals discover their family history and create lasting connections.
+Cutting-Edge Technology: Work with state-of-the-art AI and machine learning technologies to push the boundaries of genealogical research.
+Collaborative Environment: Join a team of passionate engineers, data scientists, and domain experts who value collaboration, innovation, and knowledge sharing.
+Continuous Growth: Engage in professional development opportunities, attend conferences, and stay at the forefront of AI advancements.
+Work-Life Balance: FamilySearch.org values work-life balance and promotes a flexible and supportive work environment.
+Join our dynamic team and be part of a meaningful journey at FamilySearch.org. Together, we can create innovative products that connect people with their family history and bring eternal impact to their lives.
+
+This job may be performed either in office, remotely or a hybrid combination of both.
+
+To successfully perform the essential functions of the job there may be physical requirements which need to be met such as sitting for long periods of time and using computer monitors/equipment
+
+#LI-KS1
+
+APPLY NOW
+JOB INFO
+Job Identification
+356975
+Job Category
+IT - Information Technology
+Posting Date
+06/28/2023, 05:03 PM
+Job Schedule
+Full time
+Locations
+ 3201 North Garden Drive, Lehi, UT, 84043, US (Remote)
+Worthiness Qualification
+Must be a member of The Church of Jesus Christ of Latter-day Saints and currently temple worthy.
+Posting Notice/More Info
+Please Note: All positions are subject to close without notice. Find out more about the many benefits of Church Employment at http://careers.churchofjesuschrist.org.
