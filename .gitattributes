@@ -37,7 +37,7 @@ LICENSE          text eol=lf
 
 #image files (at least one now in the repo) 
 #*.png
-*.jpg
+*.jpg            binary
 #audio files (none yet in the repo)
 #*.wav
 #*.mp3
