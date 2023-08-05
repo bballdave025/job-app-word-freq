@@ -1,0 +1,49 @@
+FamilySearch Software Dev Engineer In Test 3 (5-Year Fixed-Term, US-based, Remote Optional)
+Lehi, UT, United States
+United States
+(Remote)
+To meet the needs of the Church, we seek to build teams that represent the diverse perspectives, broad life experiences and backgrounds of our global Church membership. With that in mind, we encourage all qualified applicants to apply.
+
+JOB DESCRIPTION
+The Software Development Engineer in Test 3 is an experienced professional position that participates in developing and maintaining test software source code to support a solution. As a member of a development team, general work direction will be given, and the individual will be expected to solve complex technical issues and complete programming and quality assurance tasks. This position may play the role of an automation technical lead on test projects or solutions where complexity or scope is moderate.
+
+This individual works with divine guidance to provide or support technology that furthers the mission of the Church and reflects the eternal impact of the gospel.
+
+RESPONSIBILITIES
+Help create or improve a centralized automated testing harness and testing framework to execute tests and provide automated quality reports
+Develop automated test code for software development projects
+Draft, revise and approve test plans and scripts to ensure alignment with standards and IT strategy
+Create test data with valid and invalid records to thoroughly test program logic and verify system flow
+Coordinate with users to plan user acceptance testing, alpha and beta testing
+Ensure that tests are successfully completed and documented, and problems are resolved using a Continuous Delivery model
+Provide estimates for QA tasks
+Participate in code reviews
+Mentor less senior Developers in Test, if assigned
+Contribute to the development of technical documentation
+Participate in our Defect Management process to identify and resolve issues
+Influence the design, testing, and measures required to protect solutions from security compromise or system failure
+Comply with policies, standards, and regulatory requirements and help ensure all other are doing the same
+Assesses risk and tests for robustness and functionality in a Continuous Delivery model
+QUALIFICATIONS
+Required:
+
+Education:
+
+Bachelor's degree in related field or equivalent professional experience
+Work Experience:
+
+4+ years of progressive relevant professional experience
+Demonstrated Skills & Abilities:
+
+Verifiable knowledge of the applicable technical systems and functions
+Ability to communicate clearly both orally and written
+Moderate ability to solve problems in a timely manner
+Intermediate skill in engineering/programming, analytical/diagnostic/troubleshooting, web technology, and programming methodology
+This job operates in a professional office environment
+To successfully perform the essential functions of the job there may be physical requirements which need to be met such as sitting for long periods of time and using computer monitors/equipment
+Preferred Qualifications:
+
+Experience in testing systems for scalability, fault tolerance, load, and other operational areas for a data center-based service is beneficial
+Experience testing cloud-based applications in Continuous Integration/Continuous Delivery in a service-oriented architecture preferred
+ABOUT US
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings — giving Church members places to worship, teach, learn, and receive sacred ordinances — our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
