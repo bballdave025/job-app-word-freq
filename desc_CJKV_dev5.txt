@@ -1,0 +1,56 @@
+FamilySearch Software Dev Engineer 5 (US-based, Remote Optional)
+Lehi, UT, United States
+United States
+(Remote)
+To meet the needs of the Church, we seek to build teams that represent the diverse perspectives, broad life experiences and backgrounds of our global Church membership. With that in mind, we encourage all qualified applicants to apply.
+
+JOB DESCRIPTION
+The Software Dev Engineer 5 is a master, professional full-stack role that requires vast knowledge of industry practices, and organizational policies. The role requires good judgment in selecting methods and techniques for designing, defining, developing, testing, purchasing, implementing, and analyzing technical products and systems of diverse scope. This position recommends system purchases for high value projects. This position fully participates as a technical leader and influences numerous engineering teams, and leads in areas such as software development, project planning activities, work break-down of tasks, engineering peer reviews, etc. This position is responsible for technical leadership in architecture, design, implementation, software quality, and on-going engineering support of the organization's technology applications.
+
+This individual works with divine guidance to provide or support technology that furthers the mission of the Church and reflects the eternal impact of the gospel.
+
+RESPONSIBILITIES
+Contribute to team-wide development strategy
+Lead all development for a product vertical, as well as multiple horizontal initiatives, directing the work of other developers in product vertical Work with the technical lead in the establishment of architectures, standards, and best practices
+Seek out and understand users' needs and evangelize them when evaluating work
+As a member of a software engineering team, participate in team meetings, team planning sessions, setting team goals, and all other team activities
+Build and maintain relationships with other teams to promote collaboration
+Assist in sourcing and recruiting world-class team members
+Estimate the time to develop and deliver features as defined by product management
+Participate in peer reviews of project software design and coding
+Support requirements and design driven processes by partnering with User Experience Professionals.
+Develop source code and unit tests according to technical designs
+Develop global performance and maintainability improvements
+Be self-directed and provide classroom instruction in the areas of Church software development processes, industry best practices, and new technologies being adopted for the organization
+Provide formal training, mentoring, or pair programming with other less-experienced engineers
+QUALIFICATIONS
+Required:
+
+Education:
+
+Bachelor's degree in computer science or related field
+Work Experience:
+
+8+ years of industry recognized, progressive and relevant professional experience
+3+ years of specialized experience in the technologies and methodologies of the product platform processes
+Prior experience in a software developer leadership role, leading a team (4+) through the first and subsequent releases of several (3+) successful products, at least one of which must be a large-scale enterprise application
+Demonstrated Skills & Abilities:
+
+Excellent communication skills including the ability to create, communicate, and direct work toward accomplishing an overall technical vision
+Demonstrated ability to mentor and train peers
+Strong understanding of Agile Software Development methodologies and principles
+Ability to direct the work in defining logic and algorithms to create programming solutions and designing modules and implementing them within the overall architecture
+Significant engineering experience (multiple major releases) in the primary areas of an n-tier enterprise system, e.g. interface, domain logic and database layers.
+Expert-level full-stack skills in engineering troubleshooting, web technology, user interfaces, architectures, and/or programming methodology
+Able to architect entire systems and subsystems
+Familiarity with Cloud Based Platforms and services
+Leader of Continuous Integration and Continuous Delivery principles
+Extensive knowledge of applicable software, computer languages, and code to perform the responsibilities of the role
+Proven aptitude and willingness to learn new technologies and programming languages
+This job operates in a professional office environment
+To successfully perform the essential functions of the job there may be physical requirements which need to be met such as sitting for long periods of time and using computer monitors/equipment
+Preferred Qualifications:
+
+Master's degree
+ABOUT US
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings — giving Church members places to worship, teach, learn, and receive sacred ordinances — our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.

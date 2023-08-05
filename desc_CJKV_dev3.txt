@@ -1,0 +1,52 @@
+FamilySearch Software Dev Engineer 3 (5-Year Fixed-Term, US-based, Remote Optional)
+Lehi, UT, United States
+United States
+(Remote)
+To meet the needs of the Church, we seek to build teams that represent the diverse perspectives, broad life experiences and backgrounds of our global Church membership. With that in mind, we encourage all qualified applicants to apply.
+
+JOB DESCRIPTION
+The Software Development Engineer 3 is an experienced professional, full-stack engineer who works independently on tasks and assignments from a Software Development Manager, a project technical lead, or the team. This position utilizes solid knowledge, skills, and abilities with technology and programming languages to analyze, design, program, debug, test, modify, and write documentation and procedures for installation and maintenance of organization technology-related products, Internet applications, or information support systems. 
+
+As a member of the broader software development group, the Software Development Engineer 3 works with minimal supervision and direction and is expected to utilize their experience, full understanding of industry practices, and knowledge of Church policies and procedures to exercise judgment in selecting methods and techniques for solving problems of a diverse scope. This position may also serve as the technical lead for a small team, a small to medium functional area, or for a short-term project.
+
+This individual works with divine guidance to provide or support technology that furthers the mission of the Church and reflects the eternal impact of the gospel.
+
+RESPONSIBILITIES
+Implement plan to support team-wide development strategy
+Contribute to and perform analysis of functional requirements
+Act as a technical lead when the technical lead is unavailable; mentor less-senior developers
+Create technical designs mapped to functional requirements
+Provide estimates for development tasks
+Develop source code and unit tests according to technical designs
+Participate in code reviews
+Support requirements and design driven processes by partnering with User Experience Professionals.
+Contribute to technical documentation
+Participate in the Problem Management process and fix issues
+Implement measures, as designed, to comply with policies, standards, and regulatory requirements and ensure all others are doing the same
+QUALIFICATIONS
+Required:
+
+Education:
+
+Bachelor's degree in related field or equivalent experience
+Work Experience:
+
+4+ years of progressive and relevant professional experience
+Demonstrated Skills & Abilities:
+
+Strong understanding of Agile Software Development methodologies and principles
+Solid base of learning and some experience in all the primary areas of an n-tier enterprise system that may or may not be web based (e.g., interface domain logic and database layers)
+Great verbal and written communication skills
+Strong full-stack skills in engineering troubleshooting, web technology, user interfaces, and/or programming methodology
+Solid understanding of systems and subsystems
+Familiarity with Cloud Based Platforms and services
+Strong understanding of Continuous Integration and Continuous Delivery principles.
+Demonstrated knowledge of applicable software, computer languages, and code to perform the responsibilities of the role
+Demonstrated aptitude and willingness to learn new technologies and programming languages
+This job operates in a professional home or hybrid environment
+To successfully perform the essential functions of the job there may be physical requirements which need to be met such as sitting for long periods of time and using computer monitors/equipment
+Preferred Qualifications:
+
+Experience with complex, large-scale systems including strong experience in the tools, methodologies, and technologies the role supports
+ABOUT US
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings — giving Church members places to worship, teach, learn, and receive sacred ordinances — our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
