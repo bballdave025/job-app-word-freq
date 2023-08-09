@@ -31,18 +31,23 @@ LICENSE          text eol=lf
 .gitignore       text eol=lf
 .gitattributes   text eol=lf
 
+# SVG file renders as an image, but are definitely text (XML-ish)
+*.svg            text eol=lf
+
 #  Denote all files that aren't binary, but which we don't want normalized
 #*.zip           -text
 #*.pdf           -text
 
 #image files (at least one now in the repo) 
-#*.png
+*.png            binary
 *.jpg            binary
 #audio files (none yet in the repo)
 #*.wav
 #*.mp3
 #video files (none yet in the repo)
 #*.mp4
+#other binaries
+*.xcf
 
 
 ##  EXPLANATORY COMMENTS ##
