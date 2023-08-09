@@ -29,6 +29,10 @@ __pycache__/*
 # None of those Windows Office (at least MS Word) backup files
 $~*
 
+# Don't need the thumbnails, etc.
+desktop.ini
+**/desktop.ini
+
 
 # The template from GitHub for a Python repo
 ## >>>>>>>>>> Retrieved 2023-07-22 (-0600)
