@@ -36,6 +36,22 @@ desktop.ini
 # Only keep the needed, edit-for-everything Gimp file
 specific*.xcf
 
+#  We don't want the include the pickle files; they
+#+ will be created as one goes through all five parts.
+*.pkl
+
+#  Most of the images will also be created as one goes
+#+ through the steps, with some important exceptions.
+*.png
+*.jpg
+!description_word_not_found.png
+!application_word_not_found.png
+
+#  And with exceptions for illustrating previous things.
+!badge_logo_dwb_v_0-1-001_merged_small.png
+!first_QandR_word_frequency_plots_w_link_lines.jpg
+!partial_sum_from_wofram_alpha.jpg
+
 # The template from GitHub for a Python repo
 ## >>>>>>>>>> Retrieved 2023-07-22 (-0600)
 ## >>>>>>>>>> Start GitHub Python template for .gitignore >>>>>>>>>>
