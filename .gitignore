@@ -1,4 +1,4 @@
-#@brief   A .gitignore file for my AWS ML Cert Notebooks
+#@brief   A .gitignore file for NLP Presentation (Job Hunt) for portfolio
 #@file    .gitignore
 #@author  David BLACK  GH: @bballdave025
 #@since   2023-07-23
@@ -47,10 +47,12 @@ specific*.xcf
 !description_word_not_found.png
 !application_word_not_found.png
 
-#  And with exceptions for illustrating previous things.
+#  And with exceptions for illustrating previous things
+#+ and showing versions and ...
 !badge_logo_dwb_v_0-1-001_merged_small.png
 !first_QandR_word_frequency_plots_w_link_lines.jpg
 !partial_sum_from_wofram_alpha.jpg
+!badge_logo_dwb*part*.png
 
 # The template from GitHub for a Python repo
 ## >>>>>>>>>> Retrieved 2023-07-22 (-0600)
