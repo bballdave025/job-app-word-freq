@@ -1,0 +1,44 @@
+FamilySearch Data Analyst/Programmer – Machine Learning Cataloging, Family History Department, full-time, U.S.-based with remote work an option.
+Salt Lake City, UT, United States
+To meet the needs of the Church, we seek to build teams that represent the diverse perspectives, broad life experiences and backgrounds of our global Church membership. With that in mind, we encourage all qualified applicants to apply.
+
+JOB DESCRIPTION
+The mission of this position is to help Church members fulfill their divinely appointed responsibility to discover their families through family history methods, submit their names to the temple for saving ordinances, and to help bring souls unto CHRIST.
+
+ 
+
+Performs root cause analysis, investigates, and resolves data related inquiries and system issues. Produces and presents quantitative information requests for management, product owners, and system development. Identifies, gathers, and analyzes data to understand data cleansing and manipulation needs to ensure accurate recording of data. Monitors system flows and data to ensure proper system functioning and data integrity. Participates on development teams to represent business needs for process and system development.  Utilizes data and machine learning tools to identify solutions to improve library metadata and cataloging processes.
+
+RESPONSIBILITIES
+Develop strong understanding of library cataloging, metadata standards, and language learning models and tools
+Run AI systems experiments
+Use MARC and RDA cataloging standards to create original and copy catalog bibliographic records
+Liaise with data extraction and machine learning engineers, catalog and metadata professionals, artificial intelligence and language learning software models
+Analyze data sets and processes
+Become expert in metadata, digital record creation, and linked data concepts
+Investigate and implement process changes and tools that utilize automation to help FamilySearch provide more information to its users
+QUALIFICATIONS
+Bachelor’s degree in machine learning, computer science, library and information science, or similar with 4 to 7 years of experience or equivalent combination of education and experience.
+Strong data analysis and research skills
+Ability to communicate effectively, both written and oral. Ability to keep confidences and appropriately deal with sensitive data and documents.
+Ability to acquire in-depth knowledge of department processes and operations.
+Highly skilled in the use of standard desktop software including Word, Access, Excel, PowerPoint, and Visio
+Proven ability to learn ad hoc query tools such as Oracle Discoverer or Business Objects
+Experience with software and system testing
+ABOUT US
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings— giving Church members places to worship, teach, learn, and receive sacred ordinances—our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
+Only members of the Church who are worthy of a temple recommend qualify for employment. Apart from this, the Church is an equal opportunity employer and does not discriminate in its employment decisions on any basis that would violate U.S. or local law.
+Qualified applicants will be considered for employment without regard to race, national origin, color, gender, pregnancy, marital status, age, disability, genetic information, veteran status, or other legally protected categories that apply to the Church. The Church will make reasonable accommodations for qualified individuals with known disabilities.
+JOB INFO
+Job Identification
+360439
+Job Category
+AO - Administration/Operations
+Locations
+ 50 E North Temple St, Salt Lake City, UT, 84150, US
+Job Schedule
+Full time
+Worthiness Qualification
+Must be a member of The Church of Jesus Christ of Latter-day Saints and currently temple worthy.
+Posting Notice/More Info
+Please Note: All positions are subject to close without notice. Find out more about the many benefits of Church Employment at http://careers.churchofjesuschrist.org.
