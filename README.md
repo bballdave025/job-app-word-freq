@@ -6,7 +6,7 @@ can use word-to-vec, ngram-to-vec, document-to-vec, or other things.
 
 ## Presentation Version
 
-The version that is easy to navigate is at 
+The version of the notebook here on GitHub that is easy to navigate is at 
 [this branch](https://github.com/bballdave025/job-app-word-freq/tree/polished-5part-presented), 
 not here in the main branch. My suggestion is to check things out in
 the CoLab version of the notebook. That (CoLab) version is meant
