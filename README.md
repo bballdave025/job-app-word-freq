@@ -40,6 +40,7 @@ part 2, things created in part 2 available in part 3, etc. I think that you can 
 part, but I'm not sure. I was able to do it, but I'm not sure I don't have some different
 settings in the background.
 
-The link below will take you to part 1 of the `polished-5part-presented` branch notebook.
+The link below will take you to part 1 of the `polished-5part-presented` branch notebook
+with just the input.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
