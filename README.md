@@ -37,4 +37,7 @@ You can use the MyBinder Version, too. Make sure to use the links to go from one
 e.g. use the part 2 binder badge that is visible in the part 1 notebook to go from 1 to 2.
 There is a little finesse in making sure that things created in part 1 will be available in 
 part 2, things created in part 2 available in part 3, etc. I think that you can start at any
-part, but I'm not sure.
+part, but I'm not sure. I was able to do it, but I'm not sure I don't have some different
+settings in the background.
+
+[MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
