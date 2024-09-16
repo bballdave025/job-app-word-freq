@@ -1,0 +1,100 @@
+2024-08-26 15-01-18
+
+ends by 3:24:00
+
+Some other long stays, but that will keep it under 10 hours. (less than the 17 hours originally there)
+
+
+
+
+2024-08-25T164810
+
+ends by 3:04:00
+
+Another one that was 17 hours long
+
+
+
+https://github.com/powerlanguage/word-lists/tree/master  word-list-raw.txt
+
+
+
+https://github.com/jeremy-rifkin/Wordlist  Other possibility
+
+
+
+
+https://www.reddit.com/r/LanguageTechnology/comments/a50q9y/open_source_word_lists/
+
+Open Source Word Lists
+Every couple years I find myself in need of a(n English) word list, either by frequency or alphabetical order or part of speech or some other generic but useful factor.
+
+Am I missing something? Are there easily navigable and comprehensive open source lists like this out there already? Would people in NLP/Language Tech find these useful, or is it just me? I know you can buy some for a few hundred bucks, and various dictionaries have lists divided into several pages. There are at least a dozen uncomprehensive lists on like language learning websites and such.
+
+As an example: https://www.wordfrequency.info/free.asp?s=yYou can get a list of the top 5000 words by frequency here for free, but the longer lists are a decent amount of money.
+
+Ideally it would be lists that are reasonable easy for a basic text processing algorithm to process.
+
+A lot of the for purchase lists also include things like collocation data or genre of the source document, which is understandably gonna be more expensive to generate, but I don't really care about those things so much.
+
+Am I being unreasonable in wishing such a thing was available for free online?
+
+------
+
+Agreed. The Google n-gram model is so vast, it's useless. Who wants to download hundreds of terabytes just to get basic word lists? And yes, a BYU professor sells the data and keeps the money. Nice.
+
+Here's my list:
+
+for a dictionary style set of words w/PoS and features use this: https://github.com/simplenlg/simplenlg/blob/master/src/main/resources/default-lexicon.xml
+
+if you need even more word features, use:
+
+https://lsg3.nlm.nih.gov/LexSysGroup/Projects/lexicon/current/web/release/2018.html
+
+For word frequency, try:
+
+https://github.com/ps-kostikov/english-word-frequency/blob/master/data/frequency_list.txt
+
+or,
+
+http://crr.ugent.be/archives/740
+
+Enjoy!!!
+
+-----
+
+This is a subset of an ngram language model, and ngram language models trained on (counted from) large corpora are widely available.
+
+For example, https://en.wikipedia.org/wiki/Google_Ngram_Viewer includes also unigram (single word) data, and this data can be obtained in various ways - for example, from here http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
+
+On the other hand, if you want more information than just frequencies, there are many public lexical resources, among them https://www.wiktionary.org/ , http://compling.hss.ntu.edu.sg/omw/ , etc.
+
+----
+
+Have tried looking at the Chatscript "FACT" or "DICT" files. Maybe you could parse those files into something you can use.
+
+https://github.com/ChatScript/ChatScript/tree/master/DICT  Really good.
+
+
+
+
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#English
+
+
+
+https://github.com/dolph/dictionary
+
+
+https://github.com/wordnik/wordlist?tab=readme-ov-file   
+
+
+
+https://github.com/dwyl/english-words   words.txt
+from a SO post -> infochimps.com "Copyright still belongs to them".
+
+
+https://github.com/wordnik/wordlist?tab=readme-ov-file
+Wordnik is a 501(c)3 nonprofit organization.
+
+
+
